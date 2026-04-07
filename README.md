@@ -14,7 +14,7 @@ L&C Scribe is a high-performance workflow tool designed for advanced audio proce
 * **OTA Updates:** Automated versioning and deployment system managed directly through this repository.
 
 ## Installation
-To download the latest stable build for Windows, please visit the [Releases](https://github.com/Passos-Reh/lc-scribe-app/releases.git) section.
+To download the latest stable build for Windows, please visit the [Releases](https://github.com/Passos-Reh/lc-scribe-app/releases) section.
 
 ---
 *Note: The source code for this project is private and proprietary.*
@@ -32,7 +32,7 @@ O L&C Scribe é uma ferramenta de fluxo de trabalho de alta performance, projeta
 * **Atualizações OTA:** Sistema de versionamento e implementação automatizada diretamente através deste repositório.
 
 ## Instalação
-Para baixar a versão estável mais recente para Windows, acesse a seção de [Releases](https://github.com/Passos-Reh/lc-scribe-app/releases.git).
+Para baixar a versão estável mais recente para Windows, acesse a seção de [Releases](https://github.com/Passos-Reh/lc-scribe-app/releases).
 
 ---
 *Nota: O código-fonte deste projeto é privado e proprietário.*
